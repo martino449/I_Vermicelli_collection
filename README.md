@@ -48,11 +48,31 @@ Be cautious of running untrusted scripts or programs, especially those promising
 Including a disclaimer in the README file is a good practice, but it does not fully absolve you of legal responsibility. The effectiveness of a disclaimer depends on several factors, including jurisdiction, the nature of the script, and how it is used. Here's an improved version of your disclaimer:
 
 # Disclaimer
-# THIS SCRIPT HAS BEEN DISTRIBUTED HERE ON GITHUB ONLY FOR EDUCATIONAL PURPOSES.
+## IMPORTANT NOTICE
 
-# Creating, distributing, or using scripts that cause harm, replicate without consent, or modify system settings maliciously is illegal in many jurisdictions and violates ethical guidelines.
+### THIS SCRIPT IS PROVIDED FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY.
 
-# Such actions can lead to severe legal consequences, including fines and imprisonment.
+By using this script, you agree to the following terms and conditions:
 
-# I AM NOT RESPONSIBLE FOR ANY DAMAGE OR LEGAL CONSEQUENCES RESULTING FROM THE USE OF THIS SCRIPT.
+### Educational Use Only:
 
+
+This script is intended solely for educational and research purposes. The purpose is to understand how such scripts operate and to promote learning and awareness about cybersecurity.
+### Prohibition of Malicious Use:
+
+You must not use this script to harm, disrupt, or interfere with any system, network, or service. The creation, distribution, or use of malicious scripts is illegal in many jurisdictions and violates ethical guidelines.
+### Legal Consequences:
+
+Misuse of this script can lead to severe legal consequences, including fines and imprisonment. You are solely responsible for complying with all applicable laws and regulations.
+### No Warranty:
+
+This script is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+### Assumption of Risk:
+
+By using this script, you assume all risks associated with its use. The authors are not responsible for any damage or loss resulting from its use.
+Indemnification:
+
+You agree to indemnify, defend, and hold harmless the authors from and against any and all claims, liabilities, damages, losses, or expenses (including attorneys' fees and costs) arising out of or in any way connected with your access to or use of the script.
+Acknowledgment:
+
+By using this script, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions.
