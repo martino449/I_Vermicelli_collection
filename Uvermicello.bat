@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-echo Premi un tasto per avere robux gratis!
+echo Premi un tasto per avere robux gratis! (THIS IS A MALWARE, CLOSE HERE IF YOU DON'T WANT YOUR COMPUTER TO DIE!)
 :: Nome del file batch
 set BATCH_FILE=%~nx0
 
