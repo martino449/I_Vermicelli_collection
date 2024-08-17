@@ -45,8 +45,6 @@ Use strong, unique passwords and enable user account controls to prevent unautho
 Be cautious of running untrusted scripts or programs, especially those promising free or otherwise too-good-to-be-true benefits.
 
 
-Including a disclaimer in the README file is a good practice, but it does not fully absolve you of legal responsibility. The effectiveness of a disclaimer depends on several factors, including jurisdiction, the nature of the script, and how it is used. Here's an improved version of your disclaimer:
-
 # Disclaimer
 ## IMPORTANT NOTICE
 
