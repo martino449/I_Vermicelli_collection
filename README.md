@@ -5,7 +5,6 @@ Initial Setup and User Prompt:
 
 The script starts by turning off command echoing to keep the command prompt clean.
 It sets up the local environment to ensure that changes made to environment variables do not affect the global environment.
-It displays a message in Italian prompting the user to press a key to receive "free Robux," which is a lure to get the script running.
 File and Directory Variables:
 
 The script sets variables to store the name of the batch file and its directory path, which will be used for replication.
